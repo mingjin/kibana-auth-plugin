@@ -39,6 +39,6 @@
     "rsync": "^0.4.0"
   },
   "dependencies": {
-    "hapi-auth-cookie": "^5.0.0"
+    "hapi-auth-cookie": "^3.1"
   }
 }
